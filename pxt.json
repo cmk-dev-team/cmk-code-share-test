@@ -1,6 +1,6 @@
 {
     "name": "cmk-code-share-test",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "子どものプログラムを先生が見る仕組み（ひらがな v1.8.0）の実機試験用",
     "dependencies": {
         "core": "*",
