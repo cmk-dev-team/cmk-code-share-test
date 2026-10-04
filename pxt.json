@@ -1,6 +1,6 @@
 {
     "name": "cmk-code-share-test",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "子どものプログラムを先生が見る仕組み（ひらがな v1.8.0）の実機試験用",
     "dependencies": {
         "core": "*",
@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "t1.md"
+        "t1.md",
+        "t2.md"
     ],
     "public": true,
     "targetVersions": {
